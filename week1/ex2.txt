@@ -1,0 +1,893 @@
+    1  exit
+    2  ls
+    3  git
+    4  cd Documents/
+    5  ls
+    6  cd librarian
+    7  exit
+    8  ls
+    9  mkdir 
+   10  cd Documents/librarian
+   11  git status
+   12  brew install zsh-syntax-highlighting
+   13  ls -al
+   14  cd ..
+   15  ls -al
+   16  cd ..
+   17  ls -al
+   18  nano .zshrc
+   19  ping google.com
+   20  cd Documents/Citation-network
+   21  git status
+   22  exit
+   23  ls
+   24  cd Documents/librarian/server
+   25  venv
+   26  cd Documents/librarian
+   27  ls
+   28  source venv/bin/activate
+   29  pip list
+   30  cd server
+   31  python manage.py runserver localhost:8000
+   32  mysql
+   33  cd ..
+   34  cd ~
+   35  ls
+   36  cd Library
+   37  ls
+   38  brew listt
+   39  brew list
+   40  brew info hping
+   41  cd ~
+   42  cd /usr/local/Cellar
+   43  ls
+   44  ls -al
+   45  cd mysql@5.6
+   46  ls
+   47  cd 5.6.40
+   48  ls
+   49  cd bin
+   50  ls
+   51  mysql.server start
+   52  ./mysql.server start
+   53  cd ~
+   54  cd Documents/librarian/server
+   55  python manage.py runserver localhost:8000
+   56  echo $PATH
+   57  cd ..
+   58  cd ~
+   59  ls
+   60  ls -al
+   61  cd /usr/
+   62  ls
+   63  ls - al
+   64  ls -al
+   65  cd local/Cellar
+   66  cd ls
+   67  s
+   68  ls
+   69  cd mysql@5.6/5.6.40/bin
+   70  ls
+   71  export PATH=$PATH:~/usr/local/Cellar/mysql@5.6/5.6.40/bin
+   72  echo $PATH
+   73  export PATH=$PATH:~/usr/local/Cellar/mysql@5.6/5.6.40/bin/*
+   74  mysql.
+   75  mysql
+   76  echo $PATH
+   77  for
+   78  cc
+   79  gcc
+   80  git
+   81  brew --version
+   82  cd Documents/Citation-network
+   83  git status
+   84  ping google.com
+   85  cd Documents/Simple\ Shell
+   86  cc main.c
+   87  ls
+   88  rm a.out
+   89  ls
+   90  cc main.c
+   91  ./a.out
+   92  cc main.c
+   93  ./a.out
+   94  clear
+   95  ls -al
+   96  rm a.out
+   97  ls - al
+   98  echo $PATH
+   99  clear
+  100  gcc -o main main.c
+  101  ./main
+  102  gcc -o main main.c
+  103  ./main
+  104  ls -al
+  105  cd~
+  106  cd ~
+  107  ls -al
+  108  cd /usr/local/Cellar/mysql@5.6/5.6.40
+  109  ls
+  110  cd bin
+  111  ls
+  112  ls -al
+  113  ./mysql.server start
+  114  ./mysql.server stop
+  115  brew update
+  116  brew outdated
+  117  brew upgrade
+  118  nano /etc/paths
+  119  sudo nano /etc/paths
+  120  nano ~/.bash_profile
+  121  brew doctor
+  122  brew prune
+  123  brew doctor
+  124  mysqlsh
+  125  brew prune
+  126  brew doctor
+  127  reset
+  128  nano /etc/paths
+  129  cd /usr/local/Cellar/
+  130  ls
+  131  cd ~
+  132  cd /usr/local
+  133  cd bin
+  134  ls
+  135  brew uninstall openssl
+  136  brew uninstall mysql@5.6
+  137  brew uninstall openssl
+  138  ls
+  139  cd ~
+  140  cd /usr/local/Cellar
+  141  ls -l
+  142  ls - al
+  143  ls -al
+  144  cd /tmp
+  145  ls
+  146  ls -AL
+  147  _mysql_utils
+  148  cd ~
+  149  brew search mysql
+  150  brew search mysql@5.6
+  151  brew install mysql@5.6
+  152  cd /usr/local/Cellar
+  153  ls
+  154  cd mysql@5.6/5.6.40/bin
+  155  sudo nano ~/.bash_profile
+  156  ls
+  157  ./mysql
+  158  ./mysql.server start
+  159  ./mysql
+  160  ./mysql -u root -p
+  161  sudo /etc/paths
+  162  sudo nano /etc/paths
+  163  echo $PATH
+  164  reset
+  165  echo $PATH
+  166  sudo nano /etc/paths
+  167  cd
+  168  PATH
+  169  /usr/local/Cellar/mysql@5.6/5.6.40/bin
+  170  cd
+  171  echo PATH
+  172  echo $PATH
+  173  PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/Cellar/mysql@5.6/5.6.40/bin
+  174  echo $PATH
+  175  mysql.server start
+  176  mysql
+  177  mysql -u root -p
+  178  mysql -u root
+  179  sudo nano ~/.bash_profile
+  180  reset
+  181  mysql
+  182  mysql -u root
+  183  mysql -u root -p
+  184  mysql.server stop
+  185  echo $PA
+  186  echo $PATH
+  187  sudo nano .bash_profile
+  188  reset
+  189  echo $PATH
+  190  sudo nano .bash_profile
+  191  sudo /etc/paths
+  192  sudo nano /etc/paths
+  193  echo $PATH
+  194  cd /usr/local/Cellar
+  195  ls
+  196  PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/Cellar
+  197  echo $PATH
+  198  mysql@5.6
+  199  reset
+  200  echo $PATH
+  201  cd ~
+  202  sudo nano .bash_profile
+  203  echo $PATH
+  204  sudo nano /etc/paths
+  205  cd /usr/local/Cellar/mysql@5.6/5.6.40/bin
+  206  ls
+  207  sudo nano /etc/paths
+  208  echo $PATH
+  209  reset
+  210  echo $PATH
+  211  mysql.server start
+  212  mysql.server stop
+  213  mysql.server start
+  214  mysql -u root -p
+  215  echo $PATH
+  216  ls -al
+  217  cd Documents/librarian
+  218  git status
+  219  mysql.server stop
+  220  ping google.com -n 10
+  221  ping google.com -c 10
+  222  cd Documents/Citation-network
+  223  ls
+  224  git status
+  225  ping yandex.ru -c 10
+  226  ls -al
+  227  git status
+  228  version
+  229  git status
+  230  ls -al
+  231  mysql.server stop
+  232  ls
+  233  ls ..
+  234  cd ..
+  235  ls
+  236  rm -rf DataBaseFirstDemo
+  237  ls
+  238  rm -rf TestEF
+  239  la
+  240  ls
+  241  bash -c 'clear; cd "/Users/species_decipit/Documents/DatabaseFirstDemo/DatabaseFirstDemo/bin/Debug"; "/Library/Frameworks/Mono.framework/Versions/5.10.1/bin/mono32"  --debug --debugger-agent=transport=dt_socket,address=127.0.0.1:52076  "/Users/species_decipit/Documents/DatabaseFirstDemo/DatabaseFirstDemo/bin/Debug/DatabaseFirstDemo.exe" ; echo $? > /var/folders/5j/92qrb2l953x31lhdm8qk8_n80000gn/T/tmp46de4473.tmp; echo; read -p "Press any key to continue..." -n1; exit'; exit
+  242  ls
+  243  rm -rf DatabaseFirstDemo
+  244  ls -al
+  245  mysql.server start
+  246  mysql -u root -p
+  247  mysql.server status
+  248  mysql.server stop
+  249  ls
+  250  mysql.server start
+  251  mysql -u root -p
+  252  cd Documents
+  253  ls
+  254  rm -rf MvcMovie
+  255  ls -al
+  256  rm -rd MvcMovie
+  257  ls
+  258  cd Documents/Citation-network
+  259  ls
+  260  git status
+  261  git checkout master
+  262  git stash
+  263  cd Documents/Citation-network
+  264  ls
+  265  git checkout master
+  266  git stash
+  267  ping google.com -c 10
+  268  ping yandex.ru -c 10
+  269  cd Documents/Citation-network
+  270  ls
+  271  docker
+  272  docker pull microsoft/mssql-server-linux
+  273  sudo lsof -n -i :80
+  274  sudo lsof -n -i
+  275  sudo lsof -n -i :3306
+  276  mysql.server start
+  277  sudo lsof -n -i :3306
+  278  mysql.server stop
+  279  sudo lsof -n -i :3306
+  280  lsof
+  281  lsof -i
+  282  lsof -i :80
+  283  lsof -all
+  284  lsof -a
+  285  lsof -p 3306
+  286  mysql.server start
+  287  lsof -p 3306
+  288  lsof -n
+  289  lsof -i :3306
+  290  mysql.server stop
+  291  lsof -i :3306
+  292  docker run -d --name LOCAL_MACHINE -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Spec_dec1208' -p 1433:1433 microsoft/mssql-server-linux
+  293  docker ps
+  294  docker
+  295  docker ps -all
+  296  docker stop LOCAL_MACHINE
+  297  docker ps -all
+  298  docker run
+  299  docker run LOCAL_MACHINE
+  300  docker run -d --name LOCAL_MACHINE -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Spec_dec1208' -p 1433:1433 microsoft/mssql-server-linux
+  301  docker start LOCAL_MACHINE
+  302  docker ps -all
+  303  mysql.server start
+  304  mysql -u root -p
+  305  docker
+  306  docker rename
+  307  docker rename LOCAL_MACHINE ms_sql
+  308  docker ps -all
+  309  docker stop ms-SQL
+  310  docker stop ms_sql
+  311  mysql.server stop
+  312  docker stop
+  313  docker
+  314  docker pause
+  315  docker pause --help
+  316  docker ps -all
+  317  docker start ms_sql
+  318  docker ps -all
+  319  clear; cd "/Users/species_decipit/Documents/BookStore/BookStore"; 
+  320  docker ps -all
+  321  ∆s
+  322  ls
+  323  ls -all
+  324  "/Applications/Postgres.app/Contents/Versions/10/bin/psql" -p5432 -d "postgres"
+  325  sudo mkdir -p /etc/paths.d &&\necho /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp\n
+  326  psql
+  327  "/Applications/Postgres.app/Contents/Versions/10/bin/psql" -p5432 -d "template1"
+  328  psql
+  329  PSQL
+  330  ls
+  331  cd Documents
+  332  ls
+  333  git clone https://gitlab.com/cloud-lms/web.git
+  334  ls
+  335  rm -rf web
+  336  ls
+  337  git clone https://gitlab.com/cloud-lms/web.git
+  338  rm -rf web
+  339  git clone https://gitlab.com/cloud-lms/web.git
+  340  ls
+  341  cd web
+  342  git show-branch \n: 1532168534:0;git show-branch 
+  343  mkdir dev.env
+  344  ls
+  345  docker login registry.gitlab.com
+  346  docker-compose up
+  347  docker build -t registry.gitlab.com/cloud-lms/web:develop -f docker/Dockerfile .
+  348  docker-compose up
+  349  ls
+  350  cd dev.env
+  351  la
+  352  ls
+  353  cd ..
+  354  ls
+  355  cd ..
+  356  sudo rm -rf web
+  357  ls
+  358  git clone https://gitlab.com/cloud-lms/web.git
+  359  cd web
+  360  ls
+  361  touch dev.env
+  362  docker build -t registry.gitlab.com/cloud-lms/web:develop -f docker/Dockerfile .
+  363  docker-compose up
+  364  docker ps
+  365  docker stop
+  366  docker stop --help
+  367  docker stop a396e3fd0bbf
+  368  docker stop 76c2a10c2713
+  369  docker stop 5cf6d88c0069
+  370  docker ps
+  371  cd
+  372  cd ..
+  373  cd ~
+  374  cd Documents
+  375  ls
+  376  cd ~
+  377  ls
+  378  cd Documents
+  379  ls
+  380  git clone https://gitlab.com/cloud-lms/web.git
+  381  cd web
+  382  touch dev.env
+  383  ls
+  384  ls -al
+  385  docker login registry.gitlab.com
+  386  docker-compose up
+  387  ls
+  388  docker-compose down
+  389  docker-compose up
+  390  ls
+  391  docker-compose up
+  392  ls
+  393  docker-compose down
+  394  docker-compose up
+  395  docker ps
+  396  git
+  397  docker
+  398  docker images
+  399  docker system prune -a
+  400  docker images
+  401  docker volumes ls
+  402  docker volume ls
+  403  docker volume rm
+  404  docker volume rm -all
+  405  docker volume rm --help
+  406  docker volume -f
+  407  docker volume prune
+  408  docker volume ls
+  409  docker images ls
+  410  docker ps
+  411  cd ..
+  412  ls
+  413  rm -rd web
+  414  rm -rf web
+  415  ls
+  416  docker
+  417  docker-credential-osxkeychain
+  418  reset
+  419  docker
+  420  reset
+  421  docker
+  422  reset
+  423  docker-compose
+  424  docker
+  425  docker ps
+  426  docker volume ls
+  427  docker ps
+  428  docker image ls
+  429  cd Documents
+  430  ls
+  431  git clone https://gitlab.com/cloud-lms/web.git
+  432  cd web
+  433  touch dev.env
+  434  ls
+  435  docker-compose up
+  436  docker-compose px
+  437  docker-compose pxs
+  438  docker-compose ps
+  439  docker-compose down
+  440  docker-compose up
+  441  docker-compose ps
+  442  docker-compose up
+  443  docker-compose ps
+  444  docker exec -it web_python_1 bash
+  445  docker-compose up
+  446  docker-compose down
+  447  docker-compose ls
+  448  docker-compose ps
+  449  docker-compose up -d
+  450  docker-compose ps
+  451  docker exec -it web_python_1
+  452  docker exec -it web_python_1 bush
+  453  docker exec -it web_python_1 bash
+  454  docker-compose up
+  455  docker-compose down
+  456  docker-compose up -d
+  457  docker-compose down
+  458  docker-compose ps
+  459  docker volume ps
+  460  docker volume ls
+  461  docker image ls
+  462  docker
+  463  docker-compose
+  464  docker-com
+  465  docker-compose ps
+  466  docker ps
+  467  docker
+  468  docker-compose u[
+  469  docker-compose up
+  470  docker-compose ps
+  471  docker ps
+  472  ls
+  473  git status
+  474  echo $PATH
+  475  cd ~
+  476  cd /usr/bin
+  477  ls
+  478  cd ~
+  479  cd /bin
+  480  ls
+  481  cd Z
+  482  cd ../usr/sbin
+  483  ls
+  484  echo $PATH
+  485  ~
+  486  cd /usr/local/bin
+  487  ls
+  488  ~
+  489  cd /usr/local/bin
+  490  ls
+  491  docker-compose 
+  492  ./docker-compose ps
+  493  PATH=$PATH:~/usr/local/bin
+  494  echo $PATH
+  495  cd Z
+  496  cd ~
+  497  docker-compose
+  498  ./docker-compose
+  499  echo $PATH
+  500  cd ~
+  501  reset
+  502  cd /etc/pathds.d
+  503  cd /etc
+  504  l
+  505  ls
+  506  nano paths
+  507  reset
+  508  cd Documents
+  509  ls
+  510  git clone https://github.com/cubazis/inno_ansic_spring.git
+  511  ls
+  512  cd inno_ansic_spring
+  513  ls
+  514  cd lectures
+  515  ls
+  516  ./lecture1.pdf
+  517  sudo ./lecture1.pdf
+  518  open ./lecture1.pdf
+  519  docker ps
+  520  docker --version
+  521  docker indo
+  522  docker info
+  523  docker ps -all
+  524  cd ..
+  525  cd web
+  526  docker ps -all
+  527  docker-compose ps
+  528  docker-compose up
+  529  docker-compose down
+  530  docker run hello-world
+  531  docker image ls
+  532  docker container 
+  533  docker container ls
+  534  docker container ls -all
+  535  cd ..
+  536  mkdir docker_1
+  537  cd docker_1
+  538  touch Dockerfile
+  539  ls
+  540  nano Dockerfile
+  541  touch requirements.txt
+  542  nano requirements.txt
+  543  ls
+  544  nano app.y
+  545  ls
+  546  docker build -t friendlyhello .
+  547  docker image ls
+  548  nano requirements.txt
+  549  docker run 4000:80 friendlyhello
+  550  docker run -p 4000:80 friendlyhello
+  551  docker image ls
+  552  docker container ls
+  553  docker run -d -p 4000:80 friendlyhello
+  554  docker container ls
+  555  docker container stop a27e0c04711c
+  556  nano Dockerfile
+  557  ls
+  558  docker run -d -p 4000:80 friendlyhello
+  559  docker container ls
+  560  docker container stop a27e0c04711c
+  561  docker container ls
+  562  docker container stop a5ed0c890a4e
+  563  docker login
+  564  docker image ls
+  565  docker image rm friendlyhello
+  566  docker container ls
+  567  docker image rm pytohn
+  568  docker image rm python
+  569  docker image rm 42967d04ddc5
+  570  docker image ls -a
+  571  docker image ls
+  572  docker image rm 011ecb7065ca
+  573  docker container ls
+  574  docker container ls -all
+  575  docker container rm a5ed0c890a4e
+  576  docker container ls -all
+  577  docker container rm
+  578  docker container rm a27e0c04711c
+  579  docker container ls -all
+  580  docker container ls -a
+  581  docker container rm 19db551c8618
+  582  docker container ls -a
+  583  docker image ls -a
+  584  docker image ls 
+  585  docker image rm 011ecb7065ca
+  586  docker build -t docker_1
+  587  docker build -t docker_1 .
+  588  docker run -p 8000:40 -b docker_1
+  589  docker image ls
+  590  docker run --help
+  591  docker run -p 8000:40 -d docker_1
+  592  docker container ls
+  593  docker stop cd68f9962bd0
+  594  docker container ls
+  595  docker image ls
+  596  docker login
+  597  docker tag docker_1 011687/get-started:part2
+  598  docker image ls
+  599  docker image rm 74ef2047ecd3
+  600  docker image rm -f 74ef2047ecd3
+  601  docker image ks
+  602  docker image ls
+  603  docker build -t docker_1 .
+  604  docker run -p 4000:80 docker_1
+  605  docker tag docker_1 species_decipit/docker:part2
+  606  docker image ls
+  607  docker push species_decipit/docker:part2
+  608  sudo docker push species_decipit/docker:part
+  609  sudo docker push species_decipit/docker:part2
+  610  docker image ls
+  611  docker tag docker_1 011687/docker:part2
+  612  docker image ls
+  613  docker push 011687/docker:part2
+  614  docker run -p 4000:80 011687/docker:part2
+  615  docker container ls
+  616  ls
+  617  cd ..
+  618  ls
+  619  touch docker-compose.yml
+  620  nano docker-compose.yml
+  621  docker swarm init
+  622  docker stack deploy -c docker-compose.yml getstartedlab
+  623  docker service ls
+  624  docker service ps getstartedlab_web
+  625  docker container ls -q
+  626  docker stack rm getstartedlab
+  627  docker swarm leave --force
+  628  ды
+  629  ls
+  630  docker
+  631  docker continer ls
+  632  docker container ls
+  633  ды
+  634  ls
+  635  sudo rm -rf docker
+  636  docker container ls
+  637  docker image l
+  638  docker image ls
+  639  docker rmi $(docker images -a -q)
+  640  docker rmi -f $(docker images -a -q)
+  641  docker image ls -a
+  642  docker image ls 
+  643  docker image
+  644  docker image ls
+  645  docker ps
+  646  docker ps -a
+  647  docker ps -a -f status=exited
+  648  docker rm $(docker ps -a -f status=exited -q)
+  649  docker ps -a -f status=exited
+  650  docker ps -a
+  651  docker container rm e41da2eb23c6
+  652  docker ps -a
+  653  docker volume ls
+  654  docker volume prune
+  655  docker volume ls
+  656  cd web
+  657  ls
+  658  docker login registry.gitlab.com
+  659  docker-compose up
+  660  docker-compose down
+  661  docker-compose up -d
+  662  docker ps
+  663  docker ps -all
+  664  git checkout -b Auth/Reg
+  665  git checkout develop
+  666  git checkout Auth/Reg
+  667  docker-compose down
+  668  docker image ls
+  669  docker-compose up
+  670  docker image ls
+  671  docker images purge
+  672  docker rmi $(docker images -a -q)
+  673  docker rmi -f $(docker images -a -q)
+  674  docker images purge
+  675  docker images ls
+  676  docker images ls -all
+  677  docker images ls -a
+  678  docker rm $(docker ps -a -f status=exited -q)
+  679  docker ps
+  680  docker ps -a
+  681  docker rm e4492a6bb4d2
+  682  docker ps -a
+  683  docker volume ls
+  684  \tdocker volume ls -f dangling=true
+  685  docker volume prune
+  686  docker ps
+  687  git checkout develop 
+  688  docker-compose up
+  689  docker-compose down
+  690  docker-compose up
+  691  cd Documents
+  692  cd web
+  693  docker-compose up
+  694  docker-compose down
+  695  docker container ls
+  696  docker container
+  697  docker container ls
+  698  docker-compose up
+  699  cd ..
+  700  cd KolchanovaBirthday
+  701  python3.6
+  702  clear
+  703  python3.6
+  704  clean
+  705  clear
+  706  cd ..
+  707  clear
+  708  cd Documents
+  709  cd KolchanovaBirthday
+  710  ls
+  711  python3.6
+  712  clear
+  713  cd ../..
+  714  clear
+  715  cd Documents/KolchanovaBirthday
+  716  python3.6
+  717  clear
+  718  cd ../..
+  719  clear
+  720  cd Documents/KolchanovaBirthday
+  721  python3.6
+  722  cd ../..
+  723  clear
+  724  cd Documents/KolchanovaBirthday
+  725  ls
+  726  python3.6
+  727  clear
+  728  cd Documents/KolchanovaBirthday
+  729  ls
+  730  python3.6
+  731  ls -a
+  732  ls -all
+  733  clear
+  734  cd ../..
+  735  clear
+  736  cd Documents/KolchanovaBirthday
+  737  ls -all
+  738  python3.6
+  739  reset
+  740  clear
+  741  cd ../..
+  742  clear
+  743  cd Documents/KolchanovaBirthday
+  744  ls -all
+  745  python3.6
+  746  clear
+  747  cd ../..
+  748  clar
+  749  clear
+  750  cd Documents/KolchanovaBirthday
+  751  ls -all
+  752  python3.6
+  753  clear
+  754  cd ../..
+  755  clear
+  756  cd Documents/KolchanovaBirthday
+  757  ls -all
+  758  python3.6
+  759  git --version
+  760  cd Documents/web
+  761  cd ..
+  762  ls 
+  763  rm docker-compose.yml
+  764  rm -rf docker_1
+  765  ls
+  766  cd web
+  767  docker-compose up
+  768  docker-compose down
+  769  docker-compose up -d
+  770  git branch
+  771  git checkout Auth/Reg
+  772  docker-compose down
+  773  docker build -t registry.gitlab.com/cloud-lms/web:develop -f docker/Dockerfile .
+  774  ping yandex.ru
+  775  docker-compose up
+  776  docker-compose down
+  777  cd Documents/web
+  778  docker-compose up
+  779  docker-compose dowb
+  780  docker-compose down
+  781  docker-compose up
+  782  docker-compose down
+  783  ls -all
+  784  git status
+  785  cd ..
+  786  ls -all
+  787  git clone https://github.com/SpeciesDecipit/Citation-network.git
+  788  ./main.py
+  789  sudo ./main.py
+  790  open main.py
+  791  cd '/Users/species_decipit/Documents/' && '/usr/bin/pythonw'  '/Users/species_decipit/Documents/main.py'  && echo Exit status: $? && exit 1
+  792  mkdir OperatingSystemCourse
+  793  cd OperatingSystemCourse
+  794  git init
+  795  ls
+  796  ls -all
+  797  git status
+  798  mkdir Week1
+  799  ls
+  800  git commit -m "Week1"
+  801  git remote add origin https://github.com/SpeciesDecipit/Operating-System-Course.git
+  802  git push -u origin master
+  803  gcc
+  804  cd ..
+  805  ls -all
+  806  rm -rd OperatingSystemCourse
+  807  rm -rf OperatingSystemCourse
+  808  ls
+  809  git clone https://github.com/SpeciesDecipit/Operating-System-Course.git
+  810  ls
+  811  rm -rf Operating-System-Course
+  812  ls
+  813  cd Documents
+  814  git clone https://github.com/SpeciesDecipit/Operating-System-Course.git
+  815  ls
+  816  cd Operating-System-Course
+  817  mkdir week1
+  818  ls
+  819  cd week1/
+  820  sort
+  821  cd ~
+  822  cd ./usr
+  823  cd /usr/bin
+  824  ls
+  825  cd ..
+  826  cd .
+  827  cd ..
+  828  cd ~
+  829  cd Documents
+  830  cd Operating-System-Course
+  831  cd week1
+  832  ls ~/usr/bin
+  833  ls /usr/bin
+  834  ls /usr/bin > ls_usr_bin.txt
+  835  ls
+  836  nano ls_usr_bin.txt
+  837  ls /usr/bin | sort -r
+  838  ls /usr/bin | grep gcc
+  839  ls /usr/bin | grep b
+  840  ls /usr/bin | grep gcc
+  841  ls /usr/bin | grep gcc > ex1.txt
+  842  ls
+  843  ls /usr/bin | grep gcc | sort -r > ex1.txt
+  844  nano ex1.sh
+  845  git commit -m "Ex1"
+  846  git starus
+  847  git status
+  848  ls
+  849  cd..
+  850  cd ..
+  851  git status
+  852  git add week1/
+  853  git status
+  854  git commit --amend
+  855  git status
+  856  cd week1
+  857  ls -all
+  858  git add ex1.txt
+  859  git status
+  860  ls -all
+  861  git add ex1.txt
+  862  git status
+  863  git rebase HEAD~1
+  864  git rebase HEAD~0
+  865  git rebase HEAD~1
+  866  git reset --hard
+  867  git add ex1.txt
+  868  git status
+  869  git push origin dev
+  870  git push origin master
+  871  git pull
+  872  cd ..
+  873  git startus
+  874  git status
+  875  git commit -m "Week1"
+  876* /Users/species_decipit/Documents/Operating-System-Course/week1/ex1.sh; exit
+  877  cd ..
+  878  rm -rf Operating-System-Course
+  879  ls
+  880  git clone https://github.com/SpeciesDecipit/OS_Course.git
+  881  cd OS_Course
+  882  mkdir week1
+  883  cd week1
+  884  nano ex1.sh
+  885  ls /usr/bin | grep gcc | sort -r 
+  886  ls /usr/bin | grep gcc | sort -r > ex1.txt
+  887  nano ex1.sh
+  888  git add ex1.sh
+  889  git status
+  890  git commit -m "Week1_ex1.txt"
+  891  git push origin master
+  892  git pull
+  893  history
