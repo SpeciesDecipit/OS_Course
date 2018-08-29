@@ -24,4 +24,6 @@ int main() {
     str[strlen(str) - 1] = '\0';
     strrev(str);
     printf("Reverse string: %s", str);
+
+    return 0;
 }

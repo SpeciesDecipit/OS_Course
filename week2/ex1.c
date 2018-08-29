@@ -14,4 +14,6 @@ int main() {
     printf("Size of integer: %d Max value: %d\n", (int)sizeof(a), a);
     printf("Size of float: %d Max value: %f\n", (int)sizeof(b), b);
     printf("Size of double: %d Max value: %f", (int)sizeof(c), c);
+
+    return 0;
 }
