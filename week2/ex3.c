@@ -42,7 +42,7 @@ void print_half_of_rhombus(int height) {
 int main(int argc, char **argv) {
     int height = atoi(argv[1]);
 
-    print_square(height);
+    print_triangle(height);
 
     return 0;
 }
