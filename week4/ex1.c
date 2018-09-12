@@ -4,15 +4,12 @@
 
 
 int main() {
-    int n = 10;
-
     pid_t pid = fork();
 
     if (pid > 0) {
-        printf("Hello from Parent [%d - %d]\n", getpid(), n);
+        printf("Hello from Parent [%d]\n", getpid());
     } else {
-        printf("Hello from Child [%d - %d]\n", getpid(), n);
+        printf("Hello from Child [%d]\n", getpid());
     }
-//    printf("\n");
     return 0;
 }
