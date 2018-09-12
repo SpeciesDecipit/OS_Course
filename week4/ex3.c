@@ -24,21 +24,47 @@ int lsh_help(void);
 
 int lsh_exit(char **args);
 
+void lsh_pwd(char **args);
+
+void lsh_top(char **args);
+
+void lsh_ls(char **args);
+
 char *builtin_str[] = {
         "cd",
         "help",
-        "exit"
+        "exit",
+        "pwd",
+        "top",
+        "ls"
 };
 
 int (*builtin_func[])(char **) = {
         &lsh_cd,
         &lsh_help,
-        &lsh_exit
+        &lsh_exit,
+        &lsh_pwd,
+        &lsh_top,
+        &lsh_ls,
 };
 
 
 int lsh_num_builtins() {
     return sizeof(builtin_str) / sizeof(char *);
+}
+
+void lsh_ls(char **args) {
+    system("ls");
+}
+
+void lsh_top(char **args) {
+    system("top");
+}
+
+void lsh_pwd(char **args) {
+    char *cwd = (char *) malloc(sizeof(char) * LSH_RL_BUFSIZE);
+    getcwd(cwd, sizeof(cwd));
+    system("pwd");
 }
 
 int lsh_cd(char **args) {
