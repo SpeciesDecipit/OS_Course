@@ -5,7 +5,7 @@
 
 #define N 10
 
-int thread_id[N];
+pthread_t thread_id[N];
 
 void *printFromThread() {
     printf("Message was printing by thread with ID: %d\n", (int) pthread_self());
@@ -25,8 +25,6 @@ int main(int argc, char **argv) {
         }
 
         printf("Thread with ID %d created by thread with ID %d\n", (int) thread_id[i], (int) pthread_self());
-
-        sleep(1);
     }
 
     pthread_exit(NULL);
