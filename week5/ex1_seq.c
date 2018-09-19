@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define N 10
+#define N 100
 
 pthread_t thread_id[N];
 
@@ -24,7 +24,8 @@ int main(int argc, char **argv) {
             exit(1);
         }
 
-        printf("Thread with ID %d created by thread with ID %d\n", (int) thread_id[i], (int) pthread_self());
+        printf("Thread with ID %d created by thread with ID %lu\n", (int) thread_id[i], pthread_self());
+
     }
 
     pthread_exit(NULL);
