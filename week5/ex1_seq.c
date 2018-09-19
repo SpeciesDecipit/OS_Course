@@ -17,7 +17,7 @@ int main(int argc, char **argv) {
 
     for (int i = 0; i < N; i++) {
         rc = pthread_create(&thread_id[i], NULL, printFromThread, NULL);
-        pthread_join(thread_id[i], NULL);
+        pthread_join(thread_id[i], NULL);                       // Waiting till thread will terminate
 
         if (rc) {
             printf("\n ERROR: return code from pthread_create is %d \n", rc);
