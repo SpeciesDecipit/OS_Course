@@ -3,7 +3,7 @@
 #include <zconf.h>
 
 
-void *signint_handler() {
+void signint_handler() {
     printf("Exiting...\n");
     exit(1);
 }
