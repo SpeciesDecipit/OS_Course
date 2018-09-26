@@ -20,7 +20,7 @@ int main() {
 
         sleep(3);
 
-        kill(data, SIGTERM);
+        kill(data, SIGSTOP);
     } else {
         pid_child2 = fork();
 
