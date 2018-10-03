@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <pthread.h>
-#include <string.h>
 #include <zconf.h>
+#include <string.h>
 
 
 #define TRUE 1
