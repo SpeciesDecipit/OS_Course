@@ -2,3 +2,5 @@
 Mem:           992M        177M        171M         31M        643M        591M
 Swap:            0B          0B          0B
 Total:         992M        177M        171M
+
+# I got this info from my server on DO (Ubuntu x16.04)
