@@ -1,0 +1,10 @@
+Size of virtual address - 16 Bit
+Size of page - 8 KB = 8192 B
+
+Solution:
+    For each page we should Offset for 8192 Bytes =>
+    we should use 13 bits in virtual address for Offset (2^13 = 8192)
+
+    We have 16 - 13 = 3 bits for number of page => we can 2^3 = 8 pages
+
+    Answer: 8 pages
