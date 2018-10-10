@@ -1,0 +1,2 @@
+### Physical address - real address in RAM
+### Virtual address - some kind of abstraction which allows us to keep several process in one time in Memory without accessing one process to memory of other process.
