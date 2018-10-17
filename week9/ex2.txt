@@ -1,0 +1,5 @@
+If want to increase Hit/Miss ratio, you have two ways:
+    1) Use minimum distinct pages in sequence
+    2) Increase Page Table size
+
+    and vice versa...
