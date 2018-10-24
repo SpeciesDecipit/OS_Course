@@ -1,0 +1,5 @@
+-rw-rw-rw-  1 species_decipit  staff  0 Oct 24 11:44 _ex3.txt
+-rwxrw-rwx  1 species_decipit  staff  0 Oct 24 11:44 _ex3.txt
+-rw-rw----  1 species_decipit  staff  0 Oct 24 11:44 _ex3.txt
+-rwxrwxr-x  1 species_decipit  staff  0 Oct 24 11:44 _ex3.txt
+-rwxrwxrwx  1 species_decipit  staff  0 Oct 24 11:44 _ex3.txt
