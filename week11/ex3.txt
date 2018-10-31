@@ -1,0 +1,7 @@
+In 1st case we have 2 words, in the 2nd case we have just one word.
+
+We have such situation because, printf() is line buffered by default.
+
+In 1st case we don`t have "\n" in the end and we will print 2 words "Hello" after fork(), from parent and from child
+
+In 2nd case we have "\n" in the end and we will print word "Hello" before fork(), and 2 words "\n" after.
