@@ -2,7 +2,6 @@
 #include <zconf.h>
 
 int main() {
-    char buffer[5];
     setvbuf(stdout, NULL, _IOFBF, 1024);
 
     printf("H");
