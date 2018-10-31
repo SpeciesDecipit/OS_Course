@@ -9,6 +9,7 @@ int main() {
     const char *text = "This is a nice day!!!";
     size_t text_size = strlen(text) + 1;
     char *map = mmap(0, text_size, PROT_READ | PROT_WRITE, MAP_SHARED, fd, 0);
+    ftruncate(fd, (off_t) text_size);
     memcpy(map, text, strlen(text));
     msync(map, text_size, MS_SYNC);
     munmap(map, text_size);
