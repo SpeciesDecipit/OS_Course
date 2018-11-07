@@ -1,0 +1,5 @@
+When size of file is small: O_SYNC/O_ASYNC flags do not play role
+
+But when size of file is big enough and buffer size too:
+    O_ASYNC mode is faster than O_SYNC, because in A_SYNC mode we transfer to disk when buffer becomes full. We don`t
+    need to block process on each word like in O_SYNC.
